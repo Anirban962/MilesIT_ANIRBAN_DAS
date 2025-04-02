@@ -21,7 +21,12 @@ https://www.cloudways.com/blog/wordpress-htaccess/
 1. prac woocommerce with payment & checkout.
 2. blogs with pagination. (to-practice).
 3. Formidable form (must check that).
-4. Multi language site. (Loco-translate plugin used for multi language).
+4. Multi language site. (Loco-translate plugin used for multi language)
+
+**Woocommerce hooks & ref list:-**
+1. https://woocommerce.github.io/code-reference/hooks/hooks.html
+2. https://cyberpanel.net/blog/woocommerce-hooks
+
    
 
 
