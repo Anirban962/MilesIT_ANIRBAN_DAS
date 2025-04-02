@@ -88,7 +88,6 @@ global $product;
 
    **conditional tags for woocommerce list:**
    https://developer.woocommerce.com/docs/conditional-tags-in-woocommerce/
-   
- **conditional tags for woocommerce list ends**
+
 
 
