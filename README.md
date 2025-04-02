@@ -16,3 +16,9 @@ https://www.cloudways.com/blog/wordpress-htaccess/
 
 </Limit>
 **# .htaccessfile:: Limit logins and admin by IP**
+
+**The QA follow list:-**
+1. prac woocommerce with payment & checkout.
+2. blogs with pagination. (to-practice).
+
+
