@@ -20,5 +20,8 @@ https://www.cloudways.com/blog/wordpress-htaccess/
 **The QA follow list:-**
 1. prac woocommerce with payment & checkout.
 2. blogs with pagination. (to-practice).
+3. Formidable form (must check that).
+4. Multi language site. (Loco-translate plugin used for multi language).
+   
 
 
