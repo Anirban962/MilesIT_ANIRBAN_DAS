@@ -89,5 +89,11 @@ global $product;
    **conditional tags for woocommerce list:**
    https://developer.woocommerce.com/docs/conditional-tags-in-woocommerce/
 
+   **Git details:-**
+  1. https://git-scm.com/docs
+  2. https://ndpsoftware.com/git-cheatsheet.html
+     
+   
+
 
 
