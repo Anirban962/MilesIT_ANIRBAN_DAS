@@ -95,7 +95,13 @@ global $product;
      
 ****   Woocommerce code ref****
 1. https://github.com/woocommerce/woocommerce/wiki/wc_get_products-and-WC_Product_Query
-2. 
+
+
+   **block ip via .htaccess file**
+<RequireAll>
+    Require all denied
+    Require ip xxx.xxx.xxx.xxx
+</RequireAll>
 
 
 
