@@ -93,7 +93,9 @@ global $product;
   1. https://git-scm.com/docs
   2. https://ndpsoftware.com/git-cheatsheet.html
      
-   
+****   Woocommerce code ref****
+1. https://github.com/woocommerce/woocommerce/wiki/wc_get_products-and-WC_Product_Query
+2. 
 
 
 
