@@ -102,6 +102,11 @@ global $product;
     Require all denied
     Require ip xxx.xxx.xxx.xxx
 </RequireAll>
+________________________
+**Custom post type generator:**
+hasty...
+https://www.wp-hasty.com/tools/wordpress-custom-post-type-generator/
+______________________________
 
 
 
