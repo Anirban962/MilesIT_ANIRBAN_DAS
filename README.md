@@ -111,4 +111,5 @@ ______________________________
 **Wordpress hooks ref:-**
 
 https://developer.wordpress.org/apis/hooks/action-reference/#Actions_Run_During_a_Typical_Request
+https://codex.wordpress.org/Template_Tags
 
