@@ -123,3 +123,8 @@ _____________________________________
 **block-plugin file structure:-**
 
 https://developer.wordpress.org/block-editor/getting-started/fundamentals/file-structure-of-a-block/
+________________________________________
+**block wordpress list:-**
+https://wordpress.com/support/wordpress-editor/blocks/
+________________________________________
+
