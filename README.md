@@ -108,5 +108,7 @@ hasty...
 https://www.wp-hasty.com/tools/wordpress-custom-post-type-generator/
 ______________________________
 
+**Wordpress hooks ref:-**
 
+https://developer.wordpress.org/apis/hooks/action-reference/#Actions_Run_During_a_Typical_Request
 
