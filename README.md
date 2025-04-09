@@ -118,3 +118,8 @@ __________________________________
 **block theme ref:-**
 
 https://developer.wordpress.org/block-editor/getting-started/tutorial/
+
+_____________________________________
+**block-plugin file structure:-**
+
+https://developer.wordpress.org/block-editor/getting-started/fundamentals/file-structure-of-a-block/
