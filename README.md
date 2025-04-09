@@ -112,4 +112,9 @@ ______________________________
 
 https://developer.wordpress.org/apis/hooks/action-reference/#Actions_Run_During_a_Typical_Request
 https://codex.wordpress.org/Template_Tags
+__________________________________
 
+
+**block theme ref:-**
+
+https://developer.wordpress.org/block-editor/getting-started/tutorial/
